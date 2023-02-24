@@ -28,6 +28,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "607f72f2-18f4-44a4-8528-2781fc195abd"
+      }
+    },
+    "owner": "3_karnail"
   }
 }
